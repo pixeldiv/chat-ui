@@ -1,5 +1,17 @@
-# Vue 3 + TypeScript + Vite
+# Chat UI
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Welcome to the Chat UI repository! This project is designed to provide a user-friendly interface for chat applications, supporting various models and APIs.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## Features
+
+- **Customizable Interface**: Tailor the chat UI to your needs.
+- **Multimodal Support**: Handle text, images, and more.
+- **API Integration**: Connect with popular AI models and services.
+- **Responsive Design**: Optimized for desktop and mobile devices.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/chat-ui.git
+   cd chat-ui
